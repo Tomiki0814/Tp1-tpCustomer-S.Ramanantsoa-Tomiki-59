@@ -1,2 +1,5 @@
-mg\itu\tpcustomertomiki\JakartaRestConfiguration.class
+mg\itu\tpcustomertomiki\entities\MicroMarket.class
+mg\itu\tpcustomertomiki\entities\Customer.class
+mg\itu\tpcustomertomiki\entities\Discount.class
 mg\itu\tpcustomertomiki\resources\JakartaEE10Resource.class
+mg\itu\tpcustomertomiki\JakartaRestConfiguration.class
